@@ -1,8 +1,8 @@
 # Python Cheatsheets
-Python Cheatsheets for Everyone
 
-Python Lists Methods Cheatsheet
+1. Python Lists Methods Cheatsheet
 
-Coloured | B&W 
-Detailed Explanation in this Blog: 
+- Coloured | B&W 
+
+- Detailed Explanation in this Blog: 
 
